@@ -10,3 +10,5 @@ This app demonstrates simple setup and usage of GPIO interrupts on the Espressif
 ## Test:
  * Connect GPIO4 with button 
  * Connect GPIO23 with LED
+
+ ![Diagram](images/gpio_led_toggle_bb.png)
